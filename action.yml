@@ -1,3 +1,4 @@
+# Pulled from https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action
 name: 'Hello World'
 description: 'Greet someone'
 inputs:
